@@ -1,14 +1,12 @@
-# Jekyll Now
+# Test Title
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+**Subs** I guess this is a subtitle with link ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+**Another Sub?** the content line of the sub.
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependancies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+- A bullet
+- another? with a the following for relaxed :relaxed:
+- Ok. using ":"relaxed":" give you an emoticon of that type :confused:
 
 In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
